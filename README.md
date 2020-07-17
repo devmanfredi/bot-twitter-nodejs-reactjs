@@ -12,6 +12,7 @@
 To get started you can simply clone this repository using git:
 ```
 git clone https://github.com/devmanfredi/bot-twitter-node-react
+cd bot-twitter-nodejs-reactjs
 
 ```
 
