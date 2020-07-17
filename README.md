@@ -11,7 +11,7 @@
 
 To get started you can simply clone this repository using git:
 ```
-git clone https://github.com/devmanfredi/bot-twitter-node-react
+git clone https://github.com/devmanfredi/bot-twitter-nodejs-reactjs.git
 cd bot-twitter-nodejs-reactjs
 
 ```
